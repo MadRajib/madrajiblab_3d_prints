@@ -126,6 +126,48 @@
           "price": "₹ 550",
           "url": "#",
           "img": "./assets/imgs/img_18.webp"
+        },
+        {
+          
+          "title": "Bruce Lee",
+          "price": "₹ 550",
+          "url": "#",
+          "img": "./assets/imgs/img_19.webp"
+        },
+        {
+          
+          "title": "Ganesha",
+          "price": "₹ 150",
+          "url": "#",
+          "img": "./assets/imgs/img_20.webp"
+        },
+        {
+          
+          "title": "Kunai",
+          "price": "₹ 350",
+          "url": "#",
+          "img": "./assets/imgs/img_21.webp"
+        },
+        {
+          
+          "title": "Island",
+          "price": "₹ 60",
+          "url": "#",
+          "img": "./assets/imgs/img_22.webp"
+        },
+        {
+          
+          "title": "Kratos",
+          "price": "₹ 550",
+          "url": "#",
+          "img": "./assets/imgs/img_23.webp"
+        },
+        {
+          
+          "title": "Goku",
+          "price": "₹ 550",
+          "url": "#",
+          "img": "./assets/imgs/img_24.webp"
         }
       ]
     }
