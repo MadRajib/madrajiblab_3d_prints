@@ -84,10 +84,49 @@
           "price": "₹ 50",
           "url": "#",
           "img": "./assets/imgs/img_12.webp"
+        },
+        {
+          "id": "12",
+          "title": "Assam KeyChain",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_13.webp"
+        },
+        {
+          "id": "12",
+          "title": "Karambit KeyChain",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_14.webp"
+        },
+        {
+          "id": "12",
+          "title": "Karambit KeyChain",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_15.webp"
+        },
+        {
+          "id": "12",
+          "title": "Karambit KeyChain",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_16.webp"
+        },
+        {
+          "id": "12",
+          "title": "Karambit KeyChain",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_17.webp"
+        },
+        {
+          "id": "12",
+          "title": "Bruce Lee",
+          "price": "₹ 550",
+          "url": "#",
+          "img": "./assets/imgs/img_18.webp"
         }
-
-
-
       ]
     }
   }
