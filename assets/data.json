@@ -168,6 +168,76 @@
           "price": "₹ 550",
           "url": "#",
           "img": "./assets/imgs/img_24.webp"
+        },
+        {
+          
+          "title": "Iron Man",
+          "price": "₹ 250",
+          "url": "#",
+          "img": "./assets/imgs/img_25.webp"
+        },
+        {
+          
+          "title": "Iron Man",
+          "price": "₹ 250",
+          "url": "#",
+          "img": "./assets/imgs/img_26.webp"
+        },
+        {
+          
+          "title": "Iron Man",
+          "price": "₹ 250",
+          "url": "#",
+          "img": "./assets/imgs/img_27.webp"
+        },
+        {
+          
+          "title": "Iron Man",
+          "price": "₹ 250",
+          "url": "#",
+          "img": "./assets/imgs/img_28.webp"
+        },
+        {
+          
+          "title": "Iron Man",
+          "price": "₹ 250",
+          "url": "#",
+          "img": "./assets/imgs/img_29.webp"
+        },
+        {
+          
+          "title": "Akatsuki KeyChain",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_30.webp"
+        },
+        {
+          
+          "title": "Akatsuki KeyChain",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_31.webp"
+        },
+        {
+          
+          "title": "Qualcomm KeyChain",
+          "price": "₹ 100",
+          "url": "#",
+          "img": "./assets/imgs/img_32.webp"
+        },
+        {
+          
+          "title": "Name KeyChains",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_33.webp"
+        },
+        {
+          
+          "title": "Gomu Gomu",
+          "price": "₹ 100",
+          "url": "#",
+          "img": "./assets/imgs/img_34.webp"
         }
       ]
     }
