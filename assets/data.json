@@ -1,0 +1,93 @@
+{
+    "3d_prints": {
+      "3d_print_list": [
+        {
+          "id": "1",
+          "title": "Monkey",
+          "price": "₹ 60",
+          "url": "#",
+          "img": "./assets/imgs/img_1.webp"
+        },
+        {
+          "id": "2",
+          "title": "Denji",
+          "price": "₹ 150",
+          "url": "#",
+          "img": "./assets/imgs/img_2.webp"
+        },
+        {
+          "id": "3",
+          "title": "Ganesha",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_3.webp"
+        },
+        {
+          "id": "4",
+          "title": "Ganesha",
+          "price": "₹ 200",
+          "url": "#",
+          "img": "./assets/imgs/img_4.webp"
+        },
+        {
+          "id": "5",
+          "title": "Kevin",
+          "price": "₹ 60",
+          "url": "#",
+          "img": "./assets/imgs/img_5.webp"
+        },
+        {
+          "id": "6",
+          "title": "Stuart",
+          "price": "₹ 60",
+          "url": "#",
+          "img": "./assets/imgs/img_6.webp"
+        },
+        {
+          "id": "7",
+          "title": "Bob",
+          "price": "₹ 40",
+          "url": "#",
+          "img": "./assets/imgs/img_7.webp"
+        },
+        {
+          "id": "8",
+          "title": "Minions",
+          "price": "₹ 160",
+          "url": "#",
+          "img": "./assets/imgs/img_8.webp"
+        },
+        {
+          "id": "9",
+          "title": "Skull",
+          "price": "₹ 170",
+          "url": "#",
+          "img": "./assets/imgs/img_9.webp"
+        },
+        {
+          "id": "10",
+          "title": "Skull",
+          "price": "₹ 170",
+          "url": "#",
+          "img": "./assets/imgs/img_10.webp"
+        },
+        {
+          "id": "11",
+          "title": "Gujarat KeyChain",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_11.webp"
+        },
+        {
+          "id": "12",
+          "title": "Odisha KeyChain",
+          "price": "₹ 50",
+          "url": "#",
+          "img": "./assets/imgs/img_12.webp"
+        }
+
+
+
+      ]
+    }
+  }

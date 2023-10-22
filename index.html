@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="assets/jquery-3.7.1.slim.min.js"></script>
+    <style type="text/css">
+
+        .Items {
+            display: flex;
+            justify-content: space-between;
+            align-items:first baseline;
+            flex-wrap: wrap;
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #fff;
+        }
+
+        .Item {
+            padding: 20px 0;
+            width: 30%;
+            transition: box-shadow, 0.4s, ease-in-out;
+            border-radius: 3px;
+        }
+
+        @media screen and (max-width: 1050px) {
+            .Item{
+                width: 48%;
+            }
+        }
+
+        /* @media screen and (max-width: 1600px) {
+            .Item{
+                width: 100%;
+            }
+        } */
+
+        .Item__link {
+            text-decoration: none;
+        }
+        
+        .Item__title {
+            text-align: center;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.9em;
+            color: #555;
+            width: 90%;
+            margin: 20px auto 0;
+        }
+
+        .Item__price {
+            text-align: center;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.9em;
+            margin-top: 10px;
+            color: #777;
+        }
+
+        .ImageContainer {
+            width: 100%;
+            height: auto;
+        }
+        .Image {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="Items">
+
+       
+      </div>
+</body>
+
+<script type="text/javascript">
+
+
+   $(function() {
+    $.getJSON('./assets/data.json', function(data) {
+      print_list = data["3d_prints"]["3d_print_list"]
+
+      
+      print_list.forEach(item => {
+        var item_div  = '<div class="Item">' +
+          '<a href="#" class="Item__link">' +
+            '<div class="ImageContainer">'+
+              '<img src="'+item['img']+'" alt="'+ item['title']+'" class="Image">'+
+            '</div>' +
+            '<div class="Item__title">'+ item['title']+'</div>'+
+            '<div class="Item__price">'+ item['price']+'</div>' +
+          '</a>'+
+        '</div>'
+
+        $(".Items").append(item_div);
+
+      });
+    });
+  });
+</script>
+</html>
