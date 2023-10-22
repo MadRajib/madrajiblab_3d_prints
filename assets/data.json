@@ -238,6 +238,76 @@
           "price": "₹ 100",
           "url": "#",
           "img": "./assets/imgs/img_34.webp"
+        },
+        {
+          
+          "title": "JWST",
+          "price": "₹ 500",
+          "url": "#",
+          "img": "./assets/imgs/img_35.webp"
+        },
+        {
+          
+          "title": "Astronaut",
+          "price": "₹ 250",
+          "url": "#",
+          "img": "./assets/imgs/img_36.webp"
+        },
+        {
+          
+          "title": "Goku",
+          "price": "₹ 550",
+          "url": "#",
+          "img": "./assets/imgs/img_37.webp"
+        },
+        {
+          
+          "title": "Fox",
+          "price": "₹ 300",
+          "url": "#",
+          "img": "./assets/imgs/img_38.webp"
+        },
+        {
+          
+          "title": "Skull Container",
+          "price": "₹ 20",
+          "url": "#",
+          "img": "./assets/imgs/img_39.webp"
+        },
+        {
+          
+          "title": "Eren Yeager",
+          "price": "₹ 1000",
+          "url": "#",
+          "img": "./assets/imgs/img_40.webp"
+        },
+        {
+          
+          "title": "Strange Horse",
+          "price": "₹ 100",
+          "url": "#",
+          "img": "./assets/imgs/img_41.webp"
+        },
+        {
+          
+          "title": "Chappy",
+          "price": "₹ -",
+          "url": "#",
+          "img": "./assets/imgs/img_42.webp"
+        },
+        {
+          
+          "title": "Jesus Christ",
+          "price": "₹ 250",
+          "url": "#",
+          "img": "./assets/imgs/img_43.webp"
+        },
+        {
+          
+          "title": "Luffy",
+          "price": "₹ 250",
+          "url": "#",
+          "img": "./assets/imgs/img_44.webp"
         }
       ]
     }
