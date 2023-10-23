@@ -1,6 +1,13 @@
 {
     "3d_prints": {
       "3d_print_list": [
+          {
+          
+          "title": "TT Trophies",
+          "price": "₹ 600",
+          "url": "#",
+          "img": "./assets/imgs/fb81b3d8-6b7b-4032-b9cd-9825d39e6aa3.webp"
+        },
         {
           
           "title": "Monkey",
