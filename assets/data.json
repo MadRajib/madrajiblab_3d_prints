@@ -67,28 +67,28 @@
         {
           
           "title": "Kevin",
-          "price": "₹ 60",
+          "price": "₹ 100",
           "url": "#",
           "img": "./assets/imgs/img_5.webp"
         },
         {
           
           "title": "Stuart",
-          "price": "₹ 60",
+          "price": "₹ 100",
           "url": "#",
           "img": "./assets/imgs/img_6.webp"
         },
         {
           
           "title": "Bob",
-          "price": "₹ 40",
+          "price": "₹ 100",
           "url": "#",
           "img": "./assets/imgs/img_7.webp"
         },
         {
           
           "title": "Minions",
-          "price": "₹ 160",
+          "price": "₹ 300",
           "url": "#",
           "img": "./assets/imgs/img_8.webp"
         },
