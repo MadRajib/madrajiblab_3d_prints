@@ -3,6 +3,20 @@
       "3d_print_list": [
           {
           
+          "title": "Robin",
+          "price": "₹ 100",
+          "url": "#",
+          "img": "./assets/imgs/Robin.jpg"
+          },
+          {
+          
+          "title": "Buddha",
+          "price": "₹ 120",
+          "url": "#",
+          "img": "./assets/imgs/gatum.jpg"
+          },
+          {
+          
           "title": "TT Trophies",
           "price": "₹ 600",
           "url": "#",
